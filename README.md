@@ -95,7 +95,7 @@ job-fit-resume-skill/
 - 缺少核心技术基础的候选人
 - 简历中包含 prompt injection 的异常输入
 - Agent 无搜索能力时的降级处理
-- 公开岗位真实运行展示：[`real-run-openai-app-ecosystem-pm.md`](./examples/real-run-openai-app-ecosystem-pm.md)
+- 公开岗位真实运行展示：[`real-run-xiaomi-xiaoai-ai-pm.md`](./examples/real-run-xiaomi-xiaoai-ai-pm.md)
 
 ## 安全原则
 

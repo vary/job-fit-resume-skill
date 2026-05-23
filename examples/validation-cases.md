@@ -236,25 +236,25 @@ Product Operations Specialist, Company: ExampleAI
 
 ## Case G：公开岗位真实跑分
 
-完整报告见 [`real-run-openai-app-ecosystem-pm.md`](./real-run-openai-app-ecosystem-pm.md)。
+完整报告见 [`real-run-xiaomi-xiaoai-ai-pm.md`](./real-run-xiaomi-xiaoai-ai-pm.md)。
 
 ### 输入
 
-- 官方岗位：OpenAI Product Manager, ChatGPT and Codex App Ecosystem
-- 简历：虚拟候选人，5 年 AI 产品 / 开发者工具 / workflow automation 背景
+- 公开岗位：小米 小爱同学AI产品经理（国际化方向）
+- 简历：虚拟候选人，5 年多语言 AI 助手 / 国际化产品背景
 
 ### 运行结果
 
-- 外部调研状态：已执行，使用 OpenAI 官方岗位页
+- 外部调研状态：已执行，使用小米官方 Careers 页面和公开岗位信息页
 - Decision: 稳
-- Score: 78/100
+- Score: 76/100
 - Priority: B
 
 ### 通过标准
 
-- 引用官方岗位页作为来源。
-- 把“app ecosystem、MCP/API/SDK、partner launch、enterprise controls、data/evals”等 JD 信号拆出来。
-- 不把候选人的 JobFit Demo / 开发者工具经验夸大成“已做过大型 app marketplace”。
+- 引用小米官方 Careers 页面和公开岗位信息页作为来源。
+- 把“小爱同学、国际化、多语言交互、隐私合规、海外运营”等 JD 信号拆出来。
+- 不把候选人的智能客服经验夸大成“语音助手 / 小米生态终端经验”。
 - 给出可直接放作品页展示的完整报告。
 
 ## 结论
